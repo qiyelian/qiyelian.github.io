@@ -2,9 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://qiyelian.github.io/posts/</loc><lastmod>2021-10-03T19:30:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://qiyelian.github.io/posts/2021/10/second_post/</loc><lastmod>2021-10-03T19:30:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://qiyelian.github.io/</loc><lastmod>2021-10-03T19:30:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://qiyelian.github.io/posts/2021/10/first_post/</loc><lastmod>2021-10-03T19:20:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://qiyelian.github.io/about/</loc><lastmod>2021-10-04T17:52:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://qiyelian.github.io/posts/</loc><lastmod>2021-10-03T19:20:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://qiyelian.github.io/</loc><lastmod>2021-10-03T19:20:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://qiyelian.github.io/posts/2021/10/first_article/</loc><lastmod>2021-10-03T19:20:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://qiyelian.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://qiyelian.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

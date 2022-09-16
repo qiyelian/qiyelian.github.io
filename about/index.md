@@ -17,7 +17,6 @@
 * 我的知乎：[七叶莲](zhihu.com/people/qiyelian)  
 * 我的微博：[我是七叶莲呀](https://weibo.com/qiyelian)   
 * 我的Gitee：[七叶莲](https://gitee.com/qiyelian)  
-* 我的豆瓣：[七叶莲](https://www.douban.com/people/220532244/)  
 * 我的简书：[我是七叶莲](https://www.jianshu.com/u/352c97281be8)
 * 我的博客园：[七叶莲](https://www.cnblogs.com/qiyelian/)
 
